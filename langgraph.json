@@ -1,0 +1,11 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "wardrobe_agent": "./agent/wardrobe_agent.py:wardrobe_agent_graph"
+  },
+  "env": ".env.local",
+  "python_version": "3.11",
+  "dependencies": [
+    "./agent"
+  ]
+}
